@@ -101,15 +101,6 @@ Contributing to digital awareness campaigns and supporting efforts addressing cy
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhlamAlabaidani&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="160" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhlamAlabaidani&layout=compact&hide_border=true&theme=default" height="160" alt="Most used languages" />
-</p>
-
----
-
 <p align="center">
   <i>"Learning continuously. Building thoughtfully. Growing through technology."</i>
 </p>
